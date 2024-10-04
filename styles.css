@@ -1,0 +1,53 @@
+a {
+	color: #707070;
+	text-decoration: none;
+	letter-spacing: 0.2px;
+}
+header {
+    align-items: center;
+    margin-top: 52;
+}
+ul {
+	list-style: none;
+    letter-spacing: 0.2px;
+    margin-top: 0;
+}
+.Logo img{
+  width: 100px;
+  margin-right: 45px;
+  top: 67px;
+  left: 180px;
+  width: 46px;
+  height: 45px;
+}
+nav {
+  display: flex;
+  text-align: right;
+  justify-content:flex-end
+}
+.FirstPhoto {
+    max-width: 1400px;
+    width: 100%;
+    margin: 0 auto;
+}
+article{
+    display: inline;
+}
+article h3 {
+	color:#707070;
+    top: 958px;
+    left: 139px;
+    width: 512px;
+    height: 53px
+}
+article img {
+	width: 483px;
+	height: 282px;
+	object-fit: cover;
+	border opacity: 100%;
+}
+section img {
+    height: 300px;
+    max-width: 100%;
+    object-fit: cover;
+}
